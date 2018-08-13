@@ -19,3 +19,4 @@ print(type(conn))
 conn.close()
 
 print(row, rowcount)
+print ()
